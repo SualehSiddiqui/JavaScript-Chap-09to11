@@ -18,3 +18,16 @@
 // }
 
 // Question #02
+var color = prompt("Enter the color of road traffic signal");
+
+if(color === "red"){
+    document.write("Must Stop");
+}
+
+if(color === "yellow"){
+    document.write("Ready to move");
+}
+
+if(color === "green"){
+    document.write("Move now");
+}
