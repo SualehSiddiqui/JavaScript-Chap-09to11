@@ -149,7 +149,7 @@
 //     document.write("Sorry! In-correct answer.");
 // }
 
-// Question #07
+// Question #08
 // var num = +prompt("Enter your number");
 // var myNum = num % 3
 
@@ -160,7 +160,7 @@
 //     document.write("Your number is not divisible by 3")
 // }
 
-// Question #07
+// Question #09
 // var num = prompt("Enter your number");
 // var even = num % 2
 // if(even === 0){
@@ -170,7 +170,7 @@
 //     document.write("Your number is Odd");
 // }
 
-// Question #07
+// Question #10
 // var temp = prompt("Enter The Temprature");
 // if(temp >40){
 //     document.write("It is too hot outside.");
@@ -185,7 +185,7 @@
 //     document.write("OMG! Today’s weather is so Cool.");
 // }
 
-// Question #07
+// Question #11
 var num1 = +prompt("Enter first number");
 var num2 = +prompt("Enter second number");
 var opt = prompt("Enter Operator");
